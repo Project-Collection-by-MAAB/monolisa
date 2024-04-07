@@ -104,3 +104,13 @@ To edit the font's features, add a line to your settings.json
 <p align=center>
 <img src="https://github.com/d8-bbc11/monolisa/assets/159638529/da0e0ee9-63a0-4444-8a77-7baefbaa4c41"><br>
 LOL
+
+# Star history
+
+<a href="https://star-history.com/#d8-bbc11/monolisa&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=d8-bbc11/monolisa&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=d8-bbc11/monolisa&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=d8-bbc11/monolisa&type=Date" />
+ </picture>
+</a>
